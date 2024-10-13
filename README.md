@@ -25,7 +25,7 @@ gcc singleton.c -o singleton
 ### Running the Program:
 Once compiled, you can run the program like this:
 ./singleton <id_number>
-<id_number>: This is an integer that represents the ID for the Singleton instance.
+## <id_number>: This is an integer that represents the ID for the Singleton instance.
 # Example Usage:
 Run the program with an ID:
 
@@ -33,7 +33,6 @@ Run the program with an ID:
 ./singleton 123
 Enter the name when prompted:
 
-Copy code
 Please enter name for instance: Arc Naboo
 ok please send sigint with ctrl+c to print instance info
 Send a SIGINT signal by pressing Ctrl+C:
